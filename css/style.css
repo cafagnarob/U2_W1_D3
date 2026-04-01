@@ -406,6 +406,8 @@ article img {
     gap: 3vw;
     color: #612507;
     align-items: start;
+    margin-right: 40px;
+    margin-bottom: 40px;
   }
 
   #honeytext {
