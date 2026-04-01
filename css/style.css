@@ -232,6 +232,9 @@ article img {
     width: 45%;
     margin: 15px;
   }
+  main section:last-of-type {
+    display: none;
+  }
 
   section img {
     width: 100%;
