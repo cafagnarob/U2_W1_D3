@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 30px;
+}
+
+article {
+  display: flex;
+  flex-direction: row;
+  background-color: #fbf7e3;
+  font-size: 1.5vw;
+  padding: 2vw;
+  border-radius: 30px;
+  gap: 3vw;
+  color: #612507;
+  align-items: start;
+}
+
+#honeytext {
+  display: flex;
+  flex-direction: column;
+  gap: 3vw;
+}
+
+#honeytext p {
+  flex-grow: 2;
+  font-size: 1.3vw;
+}
+
+#honeytext h6 {
+  font-weight: bold;
+  font-size: 2vw;
+  margin-top: 2.7vw;
+}
+
+article img {
+  width: 100%;
+}
