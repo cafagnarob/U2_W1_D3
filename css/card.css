@@ -11,14 +11,14 @@ section {
   height: 38vw;
   background-color: #fbf7e4;
   align-items: center;
-  border-radius: 8vw;
+  border-radius: 1vw;
   padding-bottom: 30px;
   width: 30vw;
 }
 
 section img {
   width: 100%;
-  border-radius: 8vw 8vw 0 0;
+  border-radius: 1vw 1vw 0 0;
 }
 
 #text {
